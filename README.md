@@ -4,12 +4,16 @@
 1. LinkedList
 - 141 环形链表
 - 21 合并两个有序链表
+- 138 复制带随机指针的链表
+- 21 合并两个有序链表
      
-     
+
 2. Tree     
 - 297 二叉树的序列化与反序列化 公司列表:[MS,Google,Amazon,Facebook,LinkedIn,Quora,Oracle,Apple]
   
 
+3. Graph
+- 133 克隆图
 
 ### 链表好资料
 - [https://zhuanlan.zhihu.com/p/72886883](https://zhuanlan.zhihu.com/p/72886883)
