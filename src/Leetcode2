@@ -15,7 +15,7 @@
  * x) { val = x; } }
  */
 //medium
-public class Leetcode2_add_two_numbers {
+public class Leetcode2 {
 
   public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
     ListNode head = new ListNode(-1);

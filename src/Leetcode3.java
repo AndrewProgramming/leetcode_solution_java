@@ -3,7 +3,7 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-public class Leetcode3_3_longest_substring_without_repeating_characters {
+public class Leetcode3 {
 
   /**
    * 滑动窗口的解决方案，i，j分别代表开头和结尾

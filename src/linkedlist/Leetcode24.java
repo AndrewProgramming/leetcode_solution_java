@@ -14,7 +14,7 @@ public class Leetcode24 {
 
       pre.next = node2;
       node2.next = node1;
-      node1.next =lat;
+      node1.next = lat;
 
       pre = node1;
 
@@ -25,15 +25,6 @@ public class Leetcode24 {
 
 }
 
-/*
-执行用时 :
-0 ms
-, 在所有 Java 提交中击败了
-100.00%
-的用户
-内存消耗 :
-34.4 MB
-, 在所有 Java 提交中击败了
-83.44%
-的用户
+/**
+ * 执行用时 : 0 ms , 在所有 Java 提交中击败了 100.00% 的用户 内存消耗 : 34.4 MB , 在所有 Java 提交中击败了 83.44% 的用户
  */

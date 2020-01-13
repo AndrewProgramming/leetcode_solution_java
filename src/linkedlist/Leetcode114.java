@@ -3,6 +3,7 @@ package linkedlist;
 /**
  * Definition for a binary tree node. public class TreeNode { int val; TreeNode left; TreeNode
  * right; TreeNode(int x) { val = x; } }
+ * https://zhuanlan.zhihu.com/p/72886883
  */
 public class Leetcode114 {
 

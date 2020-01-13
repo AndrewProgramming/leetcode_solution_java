@@ -1,6 +1,6 @@
 import java.util.LinkedList;
 import java.util.Queue;
-
+//MS
 //BFS way
 public class Leetcode200 {
 
@@ -19,7 +19,7 @@ public class Leetcode200 {
       for (int j = 0; j < n; j++) {
         if (grid[i][j] == '1') {
           num_islands++;
-          grid[i][j] = '*';
+          grid[i][j] = '*';//标记该点已经被处理了
           queue.offer(new int[]{i, j});
           bsf(grid, queue);
         }
